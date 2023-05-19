@@ -4,7 +4,7 @@
 You are a creative content developer that needs a better system for publishing articles. You stumble across a great example called [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library)) and decide to implement something like it, with a twist: You’ll build it as a Single Page Application, using React! ⚛️
 
 We have already learned back end servers, so we get to start with a pre-built db connection via Sequelize, including express routes serving up the data via different REST verbs (GET, POST, PUT, and DELETE).
-
+ 
 We have 3 database models:
 - `Page`
 - `User`
